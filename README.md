@@ -33,14 +33,6 @@ The app uses a ML model to categorize any new messages received.
     `python run.py`
 3. Go to http://0.0.0.0:3001/
 
-## Screenshots
-
-***Screenshot 1: App Front Page***
-![Screenshot 1](https://github.com/Soutir/Disaster-Response-Pipeline/new/master/Screenshot1.JPG)
-
-***Screenshot 2: App Results Page***
-![Screenshot 2](https://github.com/Soutir/Disaster-Response-Pipeline/new/master/Screenshot2.JPG)
-
 ## Warning
 The datasets included in this repository are very unbalanced, with few positive examples for several message categories. 
 ## Licensing, Authors, Acknowledgements
